@@ -1,10 +1,13 @@
 body{
     color: #c6c6c6;
     background: black;
+    margin: 0px;
 }
 
 header{
-    border-bottom: solid 3px #5a189a
+    border-bottom: solid 3px #5a189a;
+    padding: 20px;
+    font-size: 32px;
 }
 
 p{
